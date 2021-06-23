@@ -8,29 +8,31 @@ Improve your README.md profile with these amazing badges. See a sample [here](ht
 3. Copy and paste on your profile
 
 ## Menu
-- [📱 Contact](#-contact-)
-- [🤜🤛 Group](#-group-)
-- [👨 Social](#-social-)
-- [👩‍💻 Languages](#-languages-)
-- [👩‍💻 IDE](#-ide-)
-- [⚡ Database](#-database-)
-- [📱 Mobile Frameworks](#-mobile-frameworks-)
-- [🚀 Frameworks](#-frameworks-)
-- [☁ Cloud](#-cloud-)
-- [📊 Analytics](#-analytics-)
-- [💻 OS](#-os-)
-- [💻 Workspace Spec](#-workspace-spec-)
-- [🛒 Store](#-store-)
-- [👨‍💻 Office](#-office-)
-- [🖍 Design](#-design-)
-- [🎮 Games](#-games-)
-- [📝 Blog](#-blog-)
-- [🎞 Streaming](#-streaming-)
-- [💲 Cryptocurrency](#-cryptocurrency-)
-- [❤ Funding](#-funding-)
-- [🎶 Sound](#-sound-)
-- [🍔🍕 Food](#-food-)
-- [✏ Contribute](#-contribute-)
+  - [📱 Contact 🔝](#-contact-)
+  - [🤜🤛 Group 🔝](#-group-)
+  - [👨👩 Social 🔝](#-social-)
+  - [👩‍💻 Languages 🔝](#-languages-)
+  - [⚡ Database 🔝](#-database-)
+  - [📱 Mobile Frameworks 🔝](#-mobile-frameworks-)
+  - [🚀 Frameworks 🔝](#-frameworks-)
+  - [☁ Cloud 🔝](#-cloud-)
+  - [🌐 Web Browsers 🔝](#-web-browsers-)
+  - [📊 Analytics 🔝](#-analytics-)
+  - [💻 OS 🔝](#-os-)
+  - [👩‍💻 IDE 🔝](#-ide-)
+  - [🛒 Store 🔝](#-store-)
+  - [👨‍💻 Office 🔝](#-office-)
+  - [💻 Workspace Spec 🔝](#-workspace-spec-)
+  - [🖍📐 Design 🔝](#-design-)
+  - [🎮🕹 Games 🔝](#-games-)
+  - [📝 Blog 🔝](#-blog-)
+  - [🎞 Streaming 🔝](#-streaming-)
+  - [💲 Cryptocurrency 🔝](#-cryptocurrency-)
+  - [❤ Funding 🔝](#-funding-)
+  - [🎶 Sound 🔝](#-sound-)
+  - [🍔🍕 Food 🔝](#-food-)
+  - [✏ Contribute 🔝](#-contribute-)
+  - [More 🔝](#more-)
 
 
 
@@ -49,6 +51,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 <img src ="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" /> | `https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white`
 <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/> | `https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white`
+<img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000"/> | `https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000` 
 
 ## 🤜🤛 Group [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -58,12 +61,14 @@ Badge | URL
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> | `https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`
+<img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white" /> | `https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white`
 
 ## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white`
+<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" /> | `https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white`
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | `https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white`
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> | `https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white`
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white`
@@ -85,7 +90,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> | `https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white`
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> | `https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue`
 <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" />| `https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white`
-
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />| `https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white`
 
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -116,6 +121,11 @@ Badge | URL
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />| `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white`
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> | `https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white`
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> | `https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white`
+<img src="https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white" /> | `https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white`
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/> | `https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black`
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> | `https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white`
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> | `https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white`
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" /> | `https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white`
 
 ## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -129,6 +139,11 @@ Badge | URL
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> | `https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white`
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> |`https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white`
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/> |`https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white`
+<img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> | `https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white`
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" /> | `https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white`
+<img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" /> | `https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white`
+<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> | `https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white`
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> | `https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white`
 
 
 ## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
@@ -139,6 +154,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /> | `https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white`
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | `https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> | `https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white`
+<img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" /> | `https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8`
 
 ## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -149,6 +165,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> | `https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white`
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> | `https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white`
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> | `https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white`
+<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/> | `https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white`
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> | `https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white`
 <img src="https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white" /> | `https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=stylus&logoColor=white`
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> | `https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white`
@@ -165,6 +182,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> | `https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white`
 <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" /> | `https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white`
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | `https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`
+<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" /> | `https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9`
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /> | `https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00`
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" /> | `https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D`
 <img src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=ember-dot-js&logoColor=white" /> | `https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=ember-dot-js&logoColor=white`
@@ -173,6 +191,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | `https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white`
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | `https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white`
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> | `https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white`
+<img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> | `https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white`
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> | `https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white`
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> | `https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white`
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> | `https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white`
@@ -190,15 +209,13 @@ Badge | URL
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> | `https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white`
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> | `https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white`
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> | `https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white`
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white`
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> | `https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white`
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> | `https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white`
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> | `https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white`
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> | `https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white`
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/> | `https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white`
-<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white"/> | `https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white`
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/> | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white`
+<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/> | `https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white`
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> | `https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white`
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> | `https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black`
 <img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white"/> | `https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white`
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> | `https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white`
@@ -216,16 +233,46 @@ Badge | URL
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"/> | `https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white`
 <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/> | `https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white`
 <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white" /> | `https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=Vaadin&logoColor=white`
+<img src="https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white" /> | `https://img.shields.io/badge/Deno.JS-464647?style=for-the-badge&logo=deno&logoColor=white`
+<img src="https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647" /> | `https://img.shields.io/badge/Deno.JS-white?style=for-the-badge&logo=deno&logoColor=464647`
+<img src="https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white" /> | `https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white`
+<img src="https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" /> | `https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black`
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> | `https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white`
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" /> | `https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white`
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /> | `https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white`
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" /> | `https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white`
+
 
 
 ## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
 
 Badge | URL
 ------------ | -------------
+<img src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" /> | `https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white`
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> | `https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white`
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> | `https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white`
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> | `https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white`
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red" /> | `https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red`
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> | `https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black`
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" /> | `https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white`
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> | `https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white`
+<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white" /> | `https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white`
+<img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" /> | `https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white`
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> | `https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white`
+<img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" /> | `https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white`
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" /> | `https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white`
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> | `https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white`
+
+
+## 🌐 Web Browsers [🔝](#welcome-badges-4-readmemd-profile)
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> | `https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white`
+<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> | `https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white`
+<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white`
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" /> | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" /> | `https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white`
+<img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" /> | `https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white`
+<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" /> | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`
 
 ## 📊 Analytics [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -261,7 +308,7 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> | `https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white`
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white`
-<img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white`
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white`
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> | `https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white`
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> | `https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white`
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> | `https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white`
@@ -271,6 +318,13 @@ Badge | URL
 <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"/> | `https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid`
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> | `https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white`
 <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" /> | `http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white`
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />| `https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white`
+<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" />| `https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon`
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />| `https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black`
+<img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />| `https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white`
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />| `https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white`
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />| `https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white`
+
 
 ## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -308,6 +362,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> | `https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white`
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" /> | `https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white`
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> | `https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white`
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" /> | `https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white`
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" /> | `https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white`
@@ -377,6 +432,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> | `https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white`
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white`
 <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /> | `https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white`
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> | `https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black`
 
 ## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
 
@@ -424,8 +480,9 @@ It's only possible because of [Shields Project](https://github.com/badges/shield
 | [<img alt="max-programming" src="https://github.com/max-programming.png?size=115" width="115"><br><sub>@max-programming</sub>](https://github.com/max-programming) | [<img alt="rienath" src="https://github.com/rienath.png?size=115" width="115"><br><sub>@rienath</sub>](https://github.com/rienath) | [<img alt="XeQariX" src="https://github.com/XeQariX.png?size=115" width="115"><br><sub>@XeQariX</sub>](https://github.com/XeQariX) | [<img alt="jackwilliamgray" src="https://github.com/jackwilliamgray.png?size=115" width="115"><br><sub>@jackwilliamgray</sub>](https://github.com/jackwilliamgray) | [<img alt="marcelo-s-correa" src="https://github.com/marcelo-s-correa.png?size=115" width="115"><br><sub>@marcelo-s-correa</sub>](https://github.com/marcelo-s-correa) | [<img alt="shivamkapasia0" src="https://github.com/shivamkapasia0.png?size=115" width="115"><br><sub>@shivamkapasia0</sub>](https://github.com/shivamkapasia0) |
 | :---: |:---: |:---: |:---: |:---: |:---: |
 | [<img alt="AdityaPrakash-26" src="https://github.com/AdityaPrakash-26.png?size=115" width="115"><br><sub>@AdityaPrakash-26</sub>](https://github.com/AdityaPrakash-26) | [<img alt="NatanBB" src="https://github.com/NatanBB.png?size=115" width="115"><br><sub>@NatanBB</sub>](https://github.com/NatanBB) | [<img alt="ArpadGBondor" src="https://github.com/ArpadGBondor.png?size=115" width="115"><br><sub>@ArpadGBondor</sub>](https://github.com/ArpadGBondor) | [<img alt="zulmarij" src="https://github.com/zulmarij.png?size=115" width="115"><br><sub>@zulmarij</sub>](https://github.com/zulmarij) | [<img alt="mfdeveloper" src="https://github.com/mfdeveloper.png?size=115" width="115"><br><sub>@mfdeveloper</sub>](https://github.com/mfdeveloper) | [<img alt="#14ABSphreak" src="https://github.com/ABSphreak.png?size=115" width="115"><br><sub>@ABSphreak</sub>](https://github.com/ABSphreak) |
-| [<img alt="noah-vdv" src="https://github.com/noah-vdv.png?size=115" width="115"><br><sub>@noah-vdv</sub>](https://github.com/noah-vdv) | [<img alt="RicardoRien" src="https://github.com/RicardoRien.png?size=115" width="115"><br><sub>@RicardoRien</sub>](https://github.com/RicardoRien) | [<img alt="Schleidens" src="https://github.com/Schleidens.png?size=115" width="115"><br><sub>@Schleidens</sub>](https://github.com/Schleidens) | [<img alt="RavinduSachintha" src="https://github.com/RavinduSachintha.png?size=115" width="115"><br><sub>@RavinduSachintha</sub>](https://github.com/RavinduSachintha) | [<img alt="mq1" src="https://github.com/mq1.png?size=115" width="115"><br><sub>@mq1</sub>](https://github.com/mq1) | [<img alt="hugorplobo" src="https://github.com/hugorplobo.png?size=115" width="115"><br><sub>@hugorplobo</sub>](https://github.com/hugorplobo) | 
-| [<img alt="yuriBazza" src="https://github.com/yuriBaza23.png?size=115" width="115"><br><sub>@yuriBaza23</sub>](https://github.com/yuriBaza23) | [<img alt="RubenFilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@rubenfilipe07</sub>](https://github.com/rubenfilipe07) |  
+| [<img alt="noah-vdv" src="https://github.com/noah-vdv.png?size=115" width="115"><br><sub>@noah-vdv</sub>](https://github.com/noah-vdv) | [<img alt="RicardoRien" src="https://github.com/RicardoRien.png?size=115" width="115"><br><sub>@RicardoRien</sub>](https://github.com/RicardoRien) | [<img alt="Schleidens" src="https://github.com/Schleidens.png?size=115" width="115"><br><sub>@Schleidens</sub>](https://github.com/Schleidens) | [<img alt="RavinduSachintha" src="https://github.com/RavinduSachintha.png?size=115" width="115"><br><sub>@RavinduSachintha</sub>](https://github.com/RavinduSachintha) | [<img alt="mq1" src="https://github.com/mq1.png?size=115" width="115"><br><sub>@mq1</sub>](https://github.com/mq1) | [<img alt="hugorplobo" src="https://github.com/hugorplobo.png?size=115" width="115"><br><sub>@hugorplobo</sub>](https://github.com/hugorplobo) |
+| [<img alt="yuriBazza" src="https://github.com/yuriBaza23.png?size=115" width="115"><br><sub>@yuriBaza23</sub>](https://github.com/yuriBaza23) | [<img alt="RubenFilipe07" src="https://github.com/rubenfilipe07.png?size=115" width="115"><br><sub>@rubenfilipe07</sub>](https://github.com/rubenfilipe07) |[<img alt="venkatesh" src="https://github.com/venkateshpensalwar.png?size=115" width="115"><br><sub>@venkateshpensalwar</sub>](https://github.com/venkateshpensalwar) | [<img alt="RazorShard" src="https://github.com/RazorShard.png?size=115" width="115"><br><sub>@RazorShard</sub>](https://github.com/RazorShard) | [<img alt="AlexandraAlcantara" src="https://github.com/alexa2me.png?size=115" width="115"><br><sub>@alexa2me</sub>](https://github.com/alexa2me)
+
 
 Author:
 | [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) |
